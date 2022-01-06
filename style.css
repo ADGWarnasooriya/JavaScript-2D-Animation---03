@@ -1,0 +1,52 @@
+.box {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(156, 142, 58);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0px;
+}
+
+.btn-dragon-game-start {
+    width: 200px;
+    height: 50px;
+    border-radius: 7px;
+    color: black;
+    background-color: rgb(226, 145, 23);
+    border: none;
+    font-size: 20px;
+    font-family: "Quicksand";
+    font-weight: bold;
+}
+
+.btn-dragon-game-start:hover {
+    background-color: rgb(189, 141, 69);
+}
+
+.dragon {
+    height: 200px;
+    margin-left: -80%;
+}
+
+.object {
+    width: 75px;
+    height: 75px;
+    background-color: blueviolet;
+    position: absolute;
+    justify-content: flex-end;
+    margin-top: 5%;
+    margin-left: 90%;
+}
+
+.score {
+    color: cornsilk;
+    font-family: "Quicksand";
+    font-weight: bold;
+    font-size: 30px;
+    align-self: flex-start;
+    position: absolute;
+}
