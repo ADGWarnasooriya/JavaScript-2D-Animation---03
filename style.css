@@ -43,7 +43,7 @@ body {
 }
 
 .score {
-    color: cornsilk;
+    color: rgba(255, 248, 220, 0.719);
     font-family: "Quicksand";
     font-weight: bold;
     font-size: 30px;
