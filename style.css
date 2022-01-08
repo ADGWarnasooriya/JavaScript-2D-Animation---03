@@ -24,7 +24,7 @@ body {
 }
 
 .btn-dragon-game-start:hover {
-    background-color: rgb(189, 141, 69);
+    background-color: rgba(189, 141, 69, 0.26);
 }
 
 .dragon {
