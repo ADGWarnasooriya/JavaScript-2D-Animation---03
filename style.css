@@ -44,7 +44,7 @@ body {
 
 .score {
     color: rgba(255, 248, 220, 0.719);
-    font-family: "Quicksand";
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: bold;
     font-size: 30px;
     align-self: flex-start;
