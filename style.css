@@ -35,7 +35,7 @@ body {
 .object {
     width: 80px;
     height: 80px;
-    background-color: rgba(137, 43, 226, 0.479);
+    background-color: rgba(226, 43, 43, 0.596);
     position: absolute;
     justify-content: flex-end;
     margin-top: 5%;
