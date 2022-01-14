@@ -44,7 +44,7 @@ body {
 
 .score {
     color: rgba(34, 5, 138, 0.575);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold;
     font-size: 35px;
     align-self: flex-start;
