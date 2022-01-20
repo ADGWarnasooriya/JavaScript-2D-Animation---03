@@ -34,7 +34,7 @@ body {
 
 .object {
     width: 85px;
-    height: 80px;
+    height: 85px;
     background-color: rgba(226, 43, 43, 0.596);
     position: absolute;
     justify-content: flex-end;
