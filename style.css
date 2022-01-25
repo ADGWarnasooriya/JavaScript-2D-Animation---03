@@ -33,7 +33,7 @@ body {
 }
 
 .object {
-    width: 85px;
+    width: 80px;
     height: 85px;
     background-color: rgba(211, 57, 57, 0.425);
     position: absolute;
